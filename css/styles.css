@@ -137,7 +137,7 @@ background-color: #f0f5f9;
 }
 .links2{
     color: #1e2022;
-    font-size: 1.2vw;
+    font-size: 2vw;
 }
 .alignlefttext{
 text-align: left;
@@ -185,7 +185,7 @@ input[type=submit]{
     padding: 0 0;
     display: none;
     overflow: hidden;
-    background-color: #444;
+    background-color: #1e2022;
     color: #fff;
 }
 /*Footer Section*/
